@@ -21,11 +21,3 @@ An AI-powered web app that summarizes long news articles into short, concise sum
 - **AI**: [OpenAI API](https://platform.openai.com/) or compatible LLM
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-news-summarizer.git
-cd ai-news-summarizer
